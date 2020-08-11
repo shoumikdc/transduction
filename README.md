@@ -1,5 +1,5 @@
 # Transduction in Multimode Bosonic Systems
-Author: Shoumik Chowdhury (@shoumikdc), March '19 - Present. 
+Authors: Shoumik Chowdhury (@shoumikdc) & Mengzhen Zhang; March '19 - Present. 
 
 This is a repo of Mathematica notebooks for implementing the symplectic decoupling and swapping protocols for multimode quantum transduction. See reference: https://arxiv.org/abs/2007.02385
 
